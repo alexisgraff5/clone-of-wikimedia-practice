@@ -42,3 +42,25 @@ a:hover {
     color: #0645AD;
     text-decoration: underline;
 }
+
+
+.icon-container {
+  width: 70%;
+  margin: 1.5em auto;
+}
+
+.icon-box {
+  width: 25%;
+  margin: 10px auto;
+  vertical-align: middle;
+  float: left;
+}
+
+.icon {
+  display: inline-block;
+  margin: 0 auto;
+  width: 150px;
+  height: 175px;
+  vertical-align: middle;
+  line-height: 175px;
+}
